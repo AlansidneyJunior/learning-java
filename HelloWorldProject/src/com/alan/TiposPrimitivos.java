@@ -1,12 +1,11 @@
 package com.alan;
 
-public class HelloWorld {
+public class TiposPrimitivos {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.print("Hello World!");
-		System.out.println();
-		
+		char letra = '\u0041';
+		System.out.println(letra);
 	}
 
 }
